@@ -161,6 +161,11 @@ main{
   margin: 16px 0;
   font-size: 16px;
 }
+@media(max-widyth:768px){
+    form {
+        padding:10xp;
+    }
+}
  
 
  
