@@ -134,7 +134,11 @@ main{
   transform: scale(1.1);
   cursor: pointer;
 }
-
+@media(max-widyth:768px){
+    form {
+        padding:10xp;
+    }
+}
  
 
  
