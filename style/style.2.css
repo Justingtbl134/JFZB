@@ -215,4 +215,8 @@ main{
       3px 1px 1px #000;
   }
 }
-
+@media(max-widyth:768px){
+    form {
+        padding:10xp;
+    }
+}
